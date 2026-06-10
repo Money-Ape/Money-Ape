@@ -50,8 +50,6 @@ Focus Areas      : Security, Cryptography, Systems
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Money-Ape\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Money-Ape\&theme=tokyonight\&hide_border=true)
 
 ---
@@ -64,15 +62,7 @@ Focus Areas      : Security, Cryptography, Systems
 
 ## 📋 GitHub Profile Summary
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Money-Ape\&theme=tokyonight)
-
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Money-Ape\&theme=tokyonight)
-
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Money-Ape\&theme=tokyonight)
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Money-Ape\&theme=tokyonight)
-
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Money-Ape\&theme=tokyonight\&utcOffset=5.5)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Money-Ape\&theme=tokyonight) ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Money-Ape\&theme=tokyonight\&utcOffset=5.5)
 
 ---
 
