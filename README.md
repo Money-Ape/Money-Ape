@@ -16,6 +16,8 @@ My interests revolve around Linux, cybersecurity, cryptography, system design, p
 
 A cryptographic password manager written in Python.
 
+**GitHub Repository:** https://github.com/Money-Ape/PassCore
+
 Features include:
 
 * AES-GCM authenticated encryption
@@ -54,7 +56,7 @@ Focus Areas      : Security, Cryptography, Systems
 
 ---
 
-## 📈 Contribution Activity
+<!-- ## 📈 Contribution Activity
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Money-Ape\&theme=tokyo-night)
 
@@ -64,7 +66,7 @@ Focus Areas      : Security, Cryptography, Systems
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Money-Ape\&theme=tokyonight) ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Money-Ape\&theme=tokyonight\&utcOffset=5.5)
 
----
+--- -->
 
 ## 🐧 Linux
 
