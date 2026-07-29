@@ -28,13 +28,19 @@ Features include:
 
 ---
 
-## 🛠️ Tech Stack
+## System Status
 
-```text
-Operating System : Arch Linux
-Languages        : Python, C, C++, SQL
-Tools            : Git, GitHub, VSCode-Insiders, nano
-Focus Areas      : Security, Cryptography, Systems
+```yaml
+OS           : Arch Linux
+Shell        : bash
+Editor       : nano
+Language     : Python / C / C++
+Hands-On     :
+  - Linux Kernel
+  - Cryptography
+  - Reverse Engineering
+Current Work : PassCore
+Status       : Development
 ```
 
 ---
@@ -56,13 +62,13 @@ Focus Areas      : Security, Cryptography, Systems
 
 ---
 
-<!-- ## 📈 Contribution Activity
+📈 Contribution Activity
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Money-Ape\&theme=tokyo-night)
 
 ---
 
-## 📋 GitHub Profile Summary
+<!-- ## 📋 GitHub Profile Summary
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Money-Ape\&theme=tokyonight) ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Money-Ape\&theme=tokyonight\&utcOffset=5.5)
 
@@ -84,5 +90,7 @@ PassCore
 ---
 
 > Build. Learn. Improve. Repeat.
+> 
+> Everything is understandable, if you're willing to read enough source code.
 
 ⭐ Always exploring, Always learning.
