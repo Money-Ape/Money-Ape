@@ -10,21 +10,31 @@ My interests revolve around Linux, cybersecurity, cryptography, system design, p
 
 ---
 
-## 🚀 Current Project
+## 🚀 Current Development Projects
 
 ### 🔐 PassCore
+An offline-first password manager focused on strong cryptography and user-controlled storage.  
+- AES-GCM encryption + Argon2id key derivation  
+- In-memory vault reconstruction, no cloud sync  
+- Distributed blob storage with integrity verification  
 
-A cryptographic password manager written in Python.
+### 🎞️ Tubit
+A modern desktop video downloader built with Python and PySide6.  
+- Uses yt-dlp + FFmpeg for reliable downloads  
+- Supports YouTube & Instagram  
+- Smart format selection and auto merging  
 
-**GitHub Repository:** https://github.com/Money-Ape/PassCore
+### ⚙️ ffmpeg-android-native (android_support_bin)
+Automated pipeline to build static FFmpeg binaries for Android (ARM64).  
+- Uses Android NDK (LLVM toolchain)  
+- Produces portable static binaries  
+- Includes verification of binary integrity  
 
-Features include:
-
-* AES-GCM authenticated encryption
-* Argon2id key derivation
-* Secure vault architecture
-* Cross-platform support
-* Master-password-based access control
+### 🧩 pacextractor (forked)
+Lightweight C utility for extracting Spreadtrum/Unisoc .pac firmware images.  
+- Fast and minimal dependency tool  
+- Extracts partitions like boot, system, vendor  
+- Cross-platform (Linux / Windows with GCC)
 
 ---
 
