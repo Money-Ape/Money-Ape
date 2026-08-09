@@ -25,10 +25,12 @@ A modern desktop video downloader built with Python and PySide6.
 - Smart format selection and auto merging  
 
 ### ⚙️ ffmpeg-android-native (android_support_bin)
-Automated pipeline to build static FFmpeg binaries for Android (ARM64).  
+Automated pipeline to build static FFmpeg binaries for Android (Multi-ARCH [aarch64, x86, x86_64] support).  
 - Uses Android NDK (LLVM toolchain)  
-- Produces portable static binaries  
-- Includes verification of binary integrity  
+- Produces portable static binaries `ffmpeg` 
+- Package it as an Android-native-library-style `.so` file so it can be exec'd from `nativeLibraryDir`
+- Sanity-check the resulting binary with ELF tools
+- Target aarch64, x86, or x86_64 per invocation  
 
 ### 🧩 pacextractor (forked)
 Lightweight C utility for extracting Spreadtrum/Unisoc .pac firmware images.  
