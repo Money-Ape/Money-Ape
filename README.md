@@ -1,108 +1,116 @@
-# Hey, This side Lovepreet Singh aka Money-Ape 👋
+  # Hey, This side Lovepreet Singh aka Money-Ape 👋
 
-```text
-Computer Science Student | Linux Enthusiast | Security Learner
-```
+  ```text
+  Computer Science Student | Linux Enthusiast | Security Learner
+  ```
 
-I enjoy exploring how computers work beneath the surface.
+  I enjoy exploring how computers work beneath the surface.
 
-My interests revolve around Linux, cybersecurity, cryptography, system design, programming, electronics, and open-source software. I prefer building projects from scratch, understanding implementation details, and learning through experimentation.
+  My interests revolve around Linux, cybersecurity, cryptography, system design, programming, electronics, and open-source software. I prefer building projects from scratch, understanding implementation details, and learning through experimentation.
 
----
+  ---
 
-## 🚀 Current Development Projects
+  ## 🚀 Current Development Projects
 
-### 🔐 PassCore [![PassCore v0.5.0-alpha](https://img.shields.io/badge/🔐%20PassCore-v0.5.0--alpha-0D1117?style=for-the-badge&logo=keybase&logoColor=white&labelColor=161B22)](https://github.com/Money-Ape/PassCore/releases/tag/v0.5.0-alpha)
-An offline-first password manager focused on strong cryptography and user-controlled storage.  
-- AES-GCM encryption + Argon2id key derivation  
-- In-memory vault reconstruction, no cloud sync  
-- Distributed blob storage with integrity verification  
+  ### 🔐 PassCore
+  An offline-first password manager focused on strong cryptography and user-controlled storage.  
+  - AES-GCM encryption + Argon2id key derivation  
+  - In-memory vault reconstruction, no cloud sync  
+  - Distributed blob storage with integrity verification  
 
-### 🎞️ Tubit [![Tubit v1.5](https://img.shields.io/badge/🎬%20Tubit-v1.5-FF6B6B?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1A1A1A)](https://github.com/Money-Ape/Tubit/releases/tag/v1.5)
-A modern desktop video downloader built with Python and PySide6.  
-- Uses yt-dlp + FFmpeg for reliable downloads  
-- Supports YouTube & Instagram  
-- Smart format selection and auto merging  
+  [![PassCore](https://img.shields.io/badge/PassCore-v0.5.0--alpha-2EA44F?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/Money-Ape/PassCore/releases/tag/v0.5.0-alpha)
 
-### ⚙️ ffmpeg-android-native (android_support_bin) [![ffmpeg-android-native](https://img.shields.io/badge/⚙️%20ffmpeg--android--native-BD93F9?style=for-the-badge&logo=ffmpeg&logoColor=white&labelColor=1E1E2E)](https://github.com/Money-Ape/ffmpeg-android-native.git)
-Automated pipeline to build static FFmpeg binaries for Android (Multi-ARCH [aarch64, x86, x86_64] support).  
-- Uses Android NDK (LLVM toolchain)  
-- Produces portable static binaries `ffmpeg` 
-- Package it as an Android-native-library-style `.so` file so it can be exec'd from `nativeLibraryDir`
-- Sanity-check the resulting binary with ELF tools
-- Target aarch64, x86, or x86_64 per invocation  
+  ### 🎞️ Tubit
+  A modern desktop video downloader built with Python and PySide6.  
+  - Uses yt-dlp + FFmpeg for reliable downloads  
+  - Supports YouTube & Instagram  
+  - Smart format selection and auto merging  
 
-### 🧩 pacextractor (forked) [![PacExtractor](https://img.shields.io/badge/📦%20PacExtractor-50FA7B?style=for-the-badge&logo=gnu&logoColor=black&labelColor=0D1117)](https://github.com/Money-Ape/pacextractor.git)
-Lightweight C utility for extracting Spreadtrum/Unisoc .pac firmware images.  
-- Fast and minimal dependency tool  
-- Extracts partitions like boot, system, vendor  
-- Cross-platform (Linux / Windows with GCC)
+  [![Tubit](https://img.shields.io/badge/Tubit-v1.5-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://github.com/Money-Ape/Tubit/releases/tag/v1.5)
 
----
+  ### ⚙️ ffmpeg-android-native (android_support_bin)
+  Automated pipeline to build static FFmpeg binaries for Android (Multi-ARCH [aarch64, x86, x86_64] support).  
+  - Uses Android NDK (LLVM toolchain)  
+  - Produces portable static binaries `ffmpeg` 
+  - Package it as an Android-native-library-style `.so` file so it can be exec'd from `nativeLibraryDir`
+  - Sanity-check the resulting binary with ELF tools
+  - Target aarch64, x86, or x86_64 per invocation  
 
-## System Status
+  [![ffmpeg-android-native](https://img.shields.io/badge/FFmpeg-Android--Native-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)](https://github.com/Money-Ape/ffmpeg-android-native.git)
 
-```yaml
-OS           : Arch Linux
-Shell        : bash
-Editor       : nano
-Language     : Python / C / C++
-Hands-On     :
-  - Linux Kernel
-  - Cryptography
-  - Reverse Engineering
-Current Work : PassCore
-Status       : Development
-```
+  ### 🧩 pacextractor (forked)
+  Lightweight C utility for extracting Spreadtrum/Unisoc .pac firmware images.  
+  - Fast and minimal dependency tool  
+  - Extracts partitions like boot, system, vendor  
+  - Cross-platform (Linux / Windows with GCC)
 
----
+  [![PacExtractor](https://img.shields.io/badge/PacExtractor-000000?style=for-the-badge&logo=gnu&logoColor=white)](https://github.com/Money-Ape/pacextractor.git)
 
-## 🌱 Currently Learning
+  ---
 
-* Reverse Engineering
-* Cryptographic engineering
-* Secure software design
-* Linux internals
-* System architecture
-* Advanced Python
+  ## System Status
 
----
+  ```yaml
+  OS           : Arch Linux
+  Shell        : bash
+  Editor       : nano
+  Language     : Python / C / C++
+  Hands-On     :
+    - Linux Kernel
+    - Cryptography
+    - Reverse Engineering
+  Current Work : PassCore
+  Status       : Development
+  ```
 
-## 📊 GitHub Statistics
+  ---
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Money-Ape\&theme=tokyonight\&hide_border=true)
+  ## 🌱 Currently Learning
 
----
+  * Reverse Engineering
+  * Cryptographic engineering
+  * Secure software design
+  * Linux internals
+  * System architecture
+  * Advanced Python
 
-📈 Contribution Activity
+  ---
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Money-Ape\&theme=tokyo-night)
+  ## 📊 GitHub Statistics
 
----
+  ![GitHub Streak](https://streak-stats.demolab.com?user=Money-Ape\&theme=tokyonight\&hide_border=true)
 
-<!-- ## 📋 GitHub Profile Summary
+  ---
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Money-Ape\&theme=tokyonight) ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Money-Ape\&theme=tokyonight\&utcOffset=5.5)
+  📈 Contribution Activity
 
---- -->
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Money-Ape\&theme=tokyo-night)
 
-## 🐧 Linux
+  ---
 
-```bash
-$ uname -a
-Arch Linux
+  <!-- ## 📋 GitHub Profile Summary
 
-$ whoami
-Money-Ape
+  ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Money-Ape\&theme=tokyonight) ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Money-Ape\&theme=tokyonight\&utcOffset=5.5)
 
-$ current_project
-PassCore
-```
+  --- -->
 
----
+  ## 🐧 Linux
 
-> Build. Learn. Improve. Repeat.
-> 
-> Everything is understandable, if you're willing to read enough source code.
+  ```bash
+  $ uname -a
+  Arch Linux
 
-⭐ Always exploring, Always learning.
+  $ whoami
+  Money-Ape
+
+  $ current_project
+  PassCore
+  ```
+
+  ---
+
+  > Build. Learn. Improve. Repeat.
+  > 
+  > Everything is understandable, if you're willing to read enough source code.
+
+  ⭐ Always exploring, Always learning.
