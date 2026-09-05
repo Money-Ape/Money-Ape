@@ -18,7 +18,7 @@
   - In-memory vault reconstruction, no cloud sync  
   - Distributed blob storage with integrity verification  
 
-  [![PassCore](https://img.shields.io/badge/PassCore-v0.6.1-beta-2EA44F?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/Money-Ape/PassCore/releases/tag/v0.6.1-beta)
+  [![PassCore](https://img.shields.io/badge/PassCore-v0.6.1--beta-2EA44F?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/Money-Ape/PassCore/releases/tag/v0.6.1-beta)
 
   ### 🎞️ Tubit
   A modern desktop video downloader built with Python and PySide6.  
