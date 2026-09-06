@@ -20,6 +20,14 @@
 
   [![PassCore](https://img.shields.io/badge/PassCore-v0.6.1--beta-2EA44F?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/Money-Ape/PassCore/releases/tag/v0.6.1-beta)
 
+  ### 🛡️ Sec-n-ThreatForge
+  A Python-based security research framework for controlled threat generation, static file analysis, detection techniques, and threat assessment.  
+  - PE/ELF executable identification and static analysis
+  - Section-level analysis with architecture, entry point, sizes, and permissions
+  - Controlled test artifacts, signatures, heuristic analysis, and risk scoring
+
+  [![Sec-n-ThreatForge](https://img.shields.io/badge/Sec--n--ThreatForge-v0.3.1-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Money-Ape/Sec-n-ThreatForge)
+
   ### 🎞️ Tubit
   A modern desktop video downloader built with Python and PySide6.  
   - Uses yt-dlp + FFmpeg for reliable downloads  
@@ -59,7 +67,7 @@
     - Linux Kernel
     - Cryptography
     - Reverse Engineering
-  Current Work : PassCore
+  Current Work : Sec-n-ThreatForge
   Status       : Development
   ```
 
